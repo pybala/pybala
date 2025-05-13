@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Balakumar
+## 👋 Balakumar Parameshwaran
 
 🎯 **Passionate Technologist | Team Leader | Data & Software Architect**
 

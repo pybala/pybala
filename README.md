@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Balakumar
+## 👋 Hi there, I'm Balakumar
 
 🎯 **Passionate Technologist | Team Leader | Data & Software Architect**
 
@@ -6,36 +6,36 @@ With over **16 years of experience**, I specialize in designing and delivering *
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+#### 👨‍💻 Languages
 - Python, PHP
 
-### ☁️ Cloud Platforms
+#### ☁️ Cloud Platforms
 - **Azure**: Databricks, Data Factory, Function App, Logic Apps  
 - **GCP**: Cloud Function, Workflow, BigQuery, Dataflow, PubSub, Cloud Tasks  
 - **AWS**: EMR, Step Function, Lambda, Glue, S3, CloudSearch
 
-### 🔢 Big Data & Pipelines
+#### 🔢 Big Data & Pipelines
 - Spark, Spark Streaming, PySpark, HDFS, Delta Lake, Hive  
 - Kafka, Airflow, DBT
 
-### 🧪 Data Warehousing
+#### 🧪 Data Warehousing
 - Snowflake, BigQuery, Databricks SQL
 
-### 🗃️ Databases
+#### 🗃️ Databases
 - MongoDB, MSSQL, MySQL, PostgreSQL
 
-### 🌐 Front-end & Full Stack
+#### 🌐 Front-end & Full Stack
 - JavaScript (ES6+), Typescript, NodeJS, VueJS, ReactJS, ExpressJS, Gatsby  
 - jQuery, Foundation, Bootstrap, HTML, CSS
 
-### 🧰 Web Frameworks
+#### 🧰 Web Frameworks
 - Laravel, Django, Flask, Falcon, Tornado, CodeIgniter, WordPress, IPBoard
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 I'm always open to discussing exciting projects, collaborating with talented engineers, or exploring leadership opportunities.
 

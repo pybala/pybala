@@ -1,4 +1,4 @@
-## 👋 Balakumar Parameshwaran
+### Balakumar Parameshwaran
 
 🎯 **Passionate Technologist | Team Leader | Data & Software Architect**
 

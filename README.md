@@ -31,7 +31,7 @@ With over **16 years of experience**, I specialize in designing and delivering *
 - jQuery, Foundation, Bootstrap, HTML, CSS
 
 #### 🧰 Web Frameworks
-- Laravel, Django, Flask, Falcon, Tornado, CodeIgniter, WordPress, IPBoard
+- Laravel, GraphQL, ApolloGraph, Django, Flask, Falcon, Tornado, CodeIgniter, WordPress, IPBoard
 
 ---
 

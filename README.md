@@ -1,6 +1,6 @@
 ### Balakumar Parameshwaran
 
-🎯 **Passionate Technologist | Team Leader | Data & Software Architect**
+🎯 **Passionate Technologist | Data Engineer | Fullstack WEB Developer**
 
 With over **16 years of experience**, I specialize in designing and delivering **enterprise-scale data engineering**, **analytics**, and **web solutions**. I have a proven track record of **building scalable applications from the ground up**, mentoring cross-functional teams, and leading projects to successful completion.
 

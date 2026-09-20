@@ -12,27 +12,29 @@ With over **16 years of experience**, I specialize in designing and delivering *
 - Python, PHP
 
 #### ☁️ Cloud Platforms
+- **GCP**: Cloud Composer, Dataflow, BigQuery, Cloud Function, Workflow, PubSub, Cloud Tasks
+- **AWS**: EMR, MWAA, Glue, Aurora Postgres, Step Function, Lambda, API Gateway, CloudSearch
 - **Azure**: Databricks, Data Factory, Function App, Logic Apps  
-- **GCP**: Cloud Function, Workflow, BigQuery, Dataflow, PubSub, Cloud Tasks  
-- **AWS**: EMR, Step Function, Lambda, Glue, S3, CloudSearch
 
 #### 🔢 Big Data & Pipelines
-- Spark, Spark Streaming, PySpark, HDFS, Delta Lake, Hive  
-- Kafka, Airflow, DBT
+- Spark, Spark Streaming, Databricks, PySpark, HDFS, Delta Lake, Hive  
+- Airflow, DBT, DBT
 
 #### 🧪 Data Warehousing
 - Snowflake, BigQuery, Databricks SQL
 
 #### 🗃️ Databases
-- MongoDB, MSSQL, MySQL, PostgreSQL
+- MongoDB, PostgreSQL, MSSQL, MySQL
 
 #### 🌐 Front-end & Full Stack
 - JavaScript (ES6+), Typescript, NodeJS, VueJS, ReactJS, ExpressJS, Gatsby  
 - jQuery, Foundation, Bootstrap, HTML, CSS
 
 #### 🧰 Web Frameworks
-- Laravel, GraphQL, ApolloGraph, Django, Flask, Falcon, Tornado, CodeIgniter, WordPress, IPBoard
+- Laravel, GraphQL, ApolloGraph, Django, Flask, Falcon, Tornado, Grav CMS, CodeIgniter, WordPress, IPBoard
 
+#### 🛠️ CI/CD
+Terraform, Gitlab, Github
 ---
 
 ### 📫 Let's Connect

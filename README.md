@@ -34,7 +34,8 @@ With over **16 years of experience**, I specialize in designing and delivering *
 - Laravel, GraphQL, ApolloGraph, Django, Flask, Falcon, Tornado, Grav CMS, CodeIgniter, WordPress, IPBoard
 
 #### 🛠️ CI/CD
-Terraform, Gitlab, Github
+- Terraform, Gitlab, Github
+
 ---
 
 ### 📫 Let's Connect
